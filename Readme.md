@@ -8,7 +8,7 @@
 * [Status](#status)
 
 ## General info
-A project that uses the scikit learn library to predict outcomes faster
+A project that uses the scikit learn library to predict outcomes faster.
 
 ## Libaries
 * scikitlearn
