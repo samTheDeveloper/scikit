@@ -8,7 +8,7 @@
 * [Status](#status)
 
 ## General info
-A project that creates and shows how to crceate a faster model
+A project that uses the scikit learn library to predict outcomes faster
 
 ## Libaries
 * scikitlearn
@@ -18,7 +18,6 @@ A project that creates and shows how to crceate a faster model
 
 
 ## Contributors
-
 * github.com/SamTheDeveloper.com
 <br>  morakinyodamilare6@gmail.com
 
