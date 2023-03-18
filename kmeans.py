@@ -7,9 +7,9 @@ import pandas as pd
 from sklearn import datasets
 
 bc = load_breast_cancer()
-#print(bc)
+print(bc)
 x = scale(bc.data)
-#print(x) 
+print(x) 
 y = bc.target
 print(y)
 
