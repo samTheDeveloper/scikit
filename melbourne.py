@@ -19,7 +19,7 @@ datasets.sex = label.transform(datasets.sex)
 #smoker
 label.fit(datasets.smoker.drop_duplicates())
 datasets.smoker = label.transform(datasets.smoker)
-
+#training the mmodel
 label.fit(datasets.region.drop_duplicates())
 datasets.region = label.transform(datasets.region)
 
