@@ -12,7 +12,7 @@ A project that uses the scikit learn library to predict outcomes faster.
 
 ## Libaries
 * scikitlearn
-* keras
+
 
 
 
