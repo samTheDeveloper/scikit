@@ -11,8 +11,6 @@ print(bc)
 x = scale(bc.data)
 print(x) 
 y = bc.target
-
-
 print(y)
 
 #training the model
