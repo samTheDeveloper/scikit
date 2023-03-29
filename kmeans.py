@@ -5,7 +5,6 @@ from sklearn.metrics import accuracy_score
 from sklearn.preprocessing import scale
 import pandas as pd
 
-
 bc = load_breast_cancer()
 print(bc)
 x = scale(bc.data)
