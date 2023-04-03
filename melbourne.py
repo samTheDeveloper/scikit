@@ -8,8 +8,6 @@ from sklearn.metrics import accuracy_score, confusion_matrix
 from sklearn import datasets
 import matplotlib.pyplot as plt
 
-
-
 datasets = pd.read_csv('insurance.csv')
 #print(datasets.head())
 #sex
