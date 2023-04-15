@@ -21,6 +21,7 @@ predictions = model.predict(x_test)
 labels = model.labels_
 accuracy = accuracy_score(y_test, predictions)
 
+
 print('labels:', labels)
 print('predictions:', predictions)
 print('accuracy:',accuracy)
